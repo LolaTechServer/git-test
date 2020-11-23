@@ -5,7 +5,10 @@ public class Employee {
 	private String name;
 	private String email;
 	private String address;
+	private int age;
 	
+
+
 	public Employee(int id, String name, String email) {
 		super();
 		this.id = id;
@@ -37,6 +40,14 @@ public class Employee {
 
 	public void setAddress(String address) {
 		this.address = address;
+	}
+	
+	public int getAge() {
+		return age;
+	}
+
+	public void setAge(int age) {
+		this.age = age;
 	}
 
 	@Override
