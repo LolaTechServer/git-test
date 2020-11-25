@@ -6,6 +6,7 @@ public class Employee {
 	private String email;
 	private String address;
 	private int age;
+	private String phone;
 	
 
 
@@ -16,6 +17,20 @@ public class Employee {
 		this.email = email;
 	}
 	
+	
+	
+	public String getPhone() {
+		return phone;
+	}
+
+
+
+	public void setPhone(String phone) {
+		this.phone = phone;
+	}
+
+
+
 	public int getId() {
 		return id;
 	}
