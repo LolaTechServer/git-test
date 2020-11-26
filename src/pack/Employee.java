@@ -69,7 +69,7 @@ public class Employee {
 
 	@Override
 	public String toString() {
-		return "Employee [id=" + id + ", name=" + name + ", email=" + email + ", address=" + address + "]";
+		return "Worker1 [id=" + id + ", name=" + name + ", email=" + email + ", address=" + address + "]";
 	}
 	
 	public static void main(String[] args) {
