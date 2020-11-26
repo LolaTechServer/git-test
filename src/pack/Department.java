@@ -3,7 +3,7 @@ package pack;
 public class Department {
 	private int id;
 	private String name;
-	//change
+	//change1
 		
 	public Department(int id, String name) {
 		super();
