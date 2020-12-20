@@ -7,6 +7,7 @@ public class Employee {
 	private String address;
 	private int age;
 	private String phone;
+	private String workPhone;
 	//hi noa
 	
 	
