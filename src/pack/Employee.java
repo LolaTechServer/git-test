@@ -9,8 +9,7 @@ public class Employee {
 	private String phone;
 	private String workPhone  ;
 	//hi noa
-	//hi amit
-	//hi amit whats up???
+
 	
 	
 	
