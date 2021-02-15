@@ -9,12 +9,7 @@ public class Employee {
 	private String phone;
 	private String workPhone  ;
 	//hi noa
-	//hi amit
-	//hi amit whats up???
 	
-	
-
-
 	public Employee(int id, String name, String email) {
 		super();
 		this.id = id;
