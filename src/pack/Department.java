@@ -11,6 +11,7 @@ public class Department {
 		super();
 		this.id = id;
 		this.name = name;
+		
 	}
 	
 	public int getId() {
