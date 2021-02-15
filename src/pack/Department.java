@@ -7,6 +7,9 @@ public class Department {
 	//change2
 	//change4
 	//change branch2
+	
+	
+	// WE are so stupid
 		
 	public Department(int id, String name) {
 		super();
