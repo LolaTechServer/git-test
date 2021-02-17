@@ -7,10 +7,6 @@ public class Department {
 	//change2 
 	//change4
 	//change branch2
-<<<<<<< HEAD
-	// amit
-=======
->>>>>>> branch 'master' of https://github.com/LolaTechServer/git-test.git
 	
 	
 	// WE are so stupid
