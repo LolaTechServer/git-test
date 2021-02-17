@@ -9,8 +9,19 @@ public class Employee {
 	private String phone;
 	private String workPhone  ;
 	//hi noa
+<<<<<<< HEAD
 	// amit
+=======
+
+>>>>>>> branch 'master' of https://github.com/LolaTechServer/git-test.git
 	
+	
+	
+	/// what the fuck???
+	
+	
+
+
 	public Employee(int id, String name, String email) {
 		super();
 		this.id = id;
