@@ -3,23 +3,22 @@ package pack;
 public class Department {
 	
 	
-	private int id;
+	private int id1;
 	private String name;
 	
 		
 	public Department(int id, String name) {
 		super();
-		this.id = id;
+		this.id1 = id;
 		this.name = name;
 		
 	}
-	// adding more comment.
 	
 	public int getId() {
-		return id;
+		return id1;
 	}
 	public void setId(int id) {
-		this.id = id;
+		this.id1 = id;
 	}
 	public String getName() {
 		return name;
