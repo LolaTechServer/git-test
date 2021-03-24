@@ -1,21 +1,11 @@
 package pack;
 
 public class Department {
+	
+	// deleted all comments.
 	private int id;
 	private String name;
-	//change1
-	//change2 
-	//change4
-	//change branch2
-	// amit
 	
-	
-	// WE are so stupid
-	
-	
-	///11111111112222222222
-	
-	///3333333333444444444
 		
 	public Department(int id, String name) {
 		super();
