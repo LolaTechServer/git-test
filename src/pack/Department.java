@@ -2,7 +2,7 @@ package pack;
 
 public class Department {
 	
-	// deleted all comments.
+	
 	private int id;
 	private String name;
 	
